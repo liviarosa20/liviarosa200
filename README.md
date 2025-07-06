@@ -1,6 +1,6 @@
 oii gente, sejam bem vindos
 
-**Livia Rosa** 
+**Livia Carboni** 
 
 Estou estudando na [alura](https://cursos.alura.com.br/dashboard)
 
